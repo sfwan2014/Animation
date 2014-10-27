@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>464EB0F4-CBFB-44CE-AEFB-D844AED28441</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CircleProgressView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>userInfo/Animation/CircleProgressView/CircleProgressView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.ipadorz.com/svn/iss_framework_iphone/userInfo/Animation/CircleProgressView/CircleProgressView.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B2FAF549-B490-44FC-B702-63B01AC378FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2FAF549-B490-44FC-B702-63B01AC378FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wanshaofa</string>
+		</dict>
+	</array>
+</dict>
+</plist>

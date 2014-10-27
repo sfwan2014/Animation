@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>233E641F-5FF1-428D-8C46-E88FCD000310</string>
+	<key>IDESourceControlProjectName</key>
+	<string>动画</string>
+	<key>IDESourceControlProjectPath</key>
+	<string>动画.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1EB50EBE-BE0E-4BCA-83B5-FD4C95123390</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.ipadorz.com/svn/iss_framework_iphone/userInfo/Animation/%E5%8A%A8%E7%94%BB/%E5%8A%A8%E7%94%BB.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1EB50EBE-BE0E-4BCA-83B5-FD4C95123390</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EB50EBE-BE0E-4BCA-83B5-FD4C95123390</string>
+			<key>IDESourceControlWCCName</key>
+			<string>动画</string>
+		</dict>
+	</array>
+</dict>
+</plist>
